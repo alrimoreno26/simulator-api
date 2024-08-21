@@ -1,0 +1,9 @@
+node_modules
+config.json
+built
+.idea
+coverage
+*.log
+*.log.*
+logs
+.nyc_output
